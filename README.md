@@ -436,15 +436,7 @@ grid_search.fit(X_train, y_train)
 
 ---
 
-## 🤝 Contributing
 
-Contributions are welcome! Please:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/improvement`)
-3. Commit changes (`git commit -am 'Add feature'`)
-4. Push to branch (`git push origin feature/improvement`)
-5. Open a Pull Request
 
 ### Ideas for Enhancement
 - [ ] Add BERT-based classifier
@@ -458,17 +450,12 @@ Contributions are welcome! Please:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
-
----
 
 ## 👨‍💻 Author
 
 **Your Name**
 - GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- Email: bavesh077a@gmail@.com
 - LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
 
 ---
@@ -496,7 +483,7 @@ If this project helped you, please consider:
 
 Have questions or issues? 
 
-- 📧 **Email**: your.email@example.com
+- 📧 **Email**: bavesh077a@gmail@.com
 - 🐙 **GitHub Issues**: [Open an issue](https://github.com/yourusername/fake-news-detection/issues)
 - 💬 **Discussions**: [Start a discussion](https://github.com/yourusername/fake-news-detection/discussions)
 
